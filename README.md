@@ -1,5 +1,10 @@
 # MFlix-MovieManager
-MFlix is a web based movie manager created to manage movies in the local drive for windows platforms. This Project is built using React js, Tailwind CSS and Python
+MFlix is a web based movie manager created to manage movies in the local drive for windows platforms. This Project is built using React js, Tailwind CSS and Python. 
+Users of this application will be able to,
+- Get a comprehensive view of the movies in their local drives
+- Manage movie files without hassle going through one file by one in the file explorer
+- Give ratings and reviews to movies on IMDb and Letterboxd platforms
+- Inbuilt video player to watch those movies from the application
 
 ## **Features**
 
