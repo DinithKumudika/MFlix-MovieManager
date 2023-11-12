@@ -5,6 +5,18 @@
     "paths": {
       "@/*": [
         "./src/*"
+      ],
+      "@ui/*": [
+        "./src/components/ui/*"
+      ],
+      "@components/*": [
+        "./src/components/*"
+      ],
+      "@pages/*": [
+        "./src/pages/*"
+      ],
+      "@constants/*": [
+        "./src/constants/*"
       ]
     },
     "useDefineForClassFields": true,
