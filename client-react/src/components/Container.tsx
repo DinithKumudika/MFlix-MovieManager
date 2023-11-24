@@ -6,7 +6,7 @@ interface ContainerProps {
 
 export const Container=({ children }: ContainerProps)=>{
   return (
-    <main className="container mx-auto my-4 p-4">
+    <main className="container mx-auto my-4 p-4 relative">
       {children}
     </main>
   )

@@ -10,6 +10,7 @@ import {
     Settings,
     Trash,
     User,
+    Menu,
   } from "lucide-react"
 
 export const Icons = {
@@ -24,4 +25,5 @@ export const Icons = {
     user: User,
     arrowRight: ArrowRight,
     help: HelpCircle,
+    menu: Menu
   }
