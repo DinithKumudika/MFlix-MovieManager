@@ -22,7 +22,7 @@ Users of this application will be able to,
 
 ### Recommendation
 
-- [ ] recommend similar movies based on the last movie watched
+- [ ] recommend similar movies based on the genre, actor and director
 
 ### Notification (Optional)
 
