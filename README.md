@@ -18,6 +18,7 @@ Users of this application will be able to,
 
 - [ ] rename movie files according to specified naming convention
 - [ ] filter watched from unwatched (no idea how to do this xD)
+- [ ] schedule cleanups based on your reviews and ratings (use LLM to identify intent behind the review and rank it whether positive/negative)
 
 ### Recommendation
 
